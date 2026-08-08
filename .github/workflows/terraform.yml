@@ -33,7 +33,7 @@ jobs:
           az login \
             --service-principal \
             --username "bb8e14ee-f53f-4665-8ddd-550c824843e7" \
-            --password "28bab2c9-dbe6-4f1a-821f-4b773dc6812c" \
+            --password "Fwm8Q~vYKVP0G0Lla4A_YFOmaN9fGMl6PsH_qaDe" \
             --tenant "8b244074-9819-4f7f-835d-3cf7a518454f"
 
       - name: Set Azure Subscription
@@ -81,7 +81,7 @@ jobs:
           az login \
             --service-principal \
             --username "bb8e14ee-f53f-4665-8ddd-550c824843e7" \
-            --password "28bab2c9-dbe6-4f1a-821f-4b773dc6812c" \
+            --password "Fwm8Q~vYKVP0G0Lla4A_YFOmaN9fGMl6PsH_qaDe" \
             --tenant "8b244074-9819-4f7f-835d-3cf7a518454f"
 
       - name: Set Azure Subscription
